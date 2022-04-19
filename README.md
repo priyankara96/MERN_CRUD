@@ -1,3 +1,3 @@
 # MERN_CRUD
 
-<h3><img src="https://user-images.githubusercontent.com/88779731/163974106-bea0e3f2-7a75-4e3c-a199-8de2e728e5cf.jpg"  width="30" height="30" > The .env file must be cewated <img src="https://user-images.githubusercontent.com/88779731/163974106-bea0e3f2-7a75-4e3c-a199-8de2e728e5cf.jpg"  width="30" height="30" ></h3>
+<img src="https://user-images.githubusercontent.com/88779731/163977767-669553a4-108e-42ed-bccb-e07309466b22.jpg"   height="30" >
