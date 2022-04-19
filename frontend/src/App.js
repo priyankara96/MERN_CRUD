@@ -19,7 +19,7 @@ class App extends Component{
         
           
           <Route path="/SupplierRegistration" exact component={SupplierRegistration}></Route>
-          <Route path="/ListSupplierRegistration" exact component={ListSupplierRegistration}></Route>
+          <Route path="/" exact component={ListSupplierRegistration}></Route>
           <Route path="/EditSupplierRegistration/:id" exact component={EditSupplierRegistration}></Route>
           
 

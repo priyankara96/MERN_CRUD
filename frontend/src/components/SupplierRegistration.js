@@ -89,7 +89,7 @@ export default class SupplierRegistration extends Component {
     });
     swal({ text: "Legal Case Type Successfully Added", icon: "success", button: "Okay!"})
   .then((value) => {
-      window.location = '/ListSupplierRegistration';
+      window.location = '/'; // ListSupplierRegistration
   });}
   }   
   render() {
@@ -200,8 +200,8 @@ export default class SupplierRegistration extends Component {
               <i className="far fa-check-square"></i>
               &nbsp; Save
             </button>&nbsp;
-          <a href="/ListSupplierRegistration"><button type="button" style={{marginTop:'15px'}} onClick={this.onClick} class="btn btn-warning"><i class="fa fa-close"></i>&nbsp;Cancel</button></a>
-          
+          <a href="/"><button type="button" style={{marginTop:'15px'}} onClick={this.onClick} class="btn btn-warning"><i class="fa fa-close"></i>&nbsp;Cancel</button></a>
+          {/* ListSupplierRegistration */}
           </div>
           <br/>
             
